@@ -46,11 +46,12 @@ pcall(function()
        );
    end
 end)
-local cum = math.huge()
-
-while task.wait() do
+_G.GETFUCKED = true
+local cum = math.random(99999,2147483641)
+while _G.GETFUCKED == true  do
 rconsolename("YOU GOT RATTED")
 rconsoleprint("GET LOGGED NIGAAAAAAA LOOOOL")
+wait(0.5)
 rconsoleprint(cum)
 messagebox("GET LOGGED NIGGA LOOOOL", "U GOT LOGGED NIGGA LOSER", 0)
 end
