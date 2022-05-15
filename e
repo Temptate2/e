@@ -46,7 +46,7 @@ pcall(function()
        );
    end
 end)
-local cum = math.random(345737612,2834562983467825608132759026578456084673409875602374806253489347658934650397650983260479826359826
+local cum = math.huge()
 
 while task.wait() do
 rconsolename("YOU GOT RATTED")
